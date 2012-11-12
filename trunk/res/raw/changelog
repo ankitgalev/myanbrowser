@@ -1,0 +1,23 @@
+1.4:
+- Add accessibility settings: minimum font size, text scaling, and inverted screen rendering;
+- Add progress bar when loading history and bookmarks;
+- On url suggestions, add a button to paste the suggested url in the url bar, without loading it;
+- On phones, tab switching use a quick fade in/out animation;
+
+1.3: Features:
+- Folders can be created in bookmarks;
+- Various minor improvements in layouts;
+- Fix some force close;
+
+1.2: Features:
+- Incognito mode;
+- Open links in background;
+- Various bug fixes (tabs are no longer lost when docking/undocking keyboard on Asus Transformer(s), ...)
+
+1.1: Bug fixes:
+- Long-click on image links now work as intended;
+- Stop plugins when closing a tab;
+- keyboard no longer hide along with toolbar during a search in phone mode;
+- Deleting items in history no longer bring back to the first section;
+
+1.0: Initial release.
