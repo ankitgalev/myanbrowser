@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MobFox Example</string>
+    <string name="hello">Hello World!</string>
+	<string name="mobfox_id">fed5ae7d80eb8378ddd8fd1b85e305ab</string>
+</resources>

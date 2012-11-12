@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+   Tint Browser for Android
+  
+   Copyright (C) 2012 - to infinity and beyond J. Devauchelle and contributors.
+ 
+   This program is free software; you can redistribute it and/or
+   modify it under the terms of the GNU General Public License
+   version 3 as published by the Free Software Foundation.
+ 
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.
+ -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ContentView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" > 
+    
+    
+   <!--  <com.mobfox.sdk.MobFoxView
+        mode="live" android:id="@+id/mobFoxView" android:layout_gravity="bottom" 
+        android:layout_width="fill_parent" android:layout_height="40dp" publisherId="347b2e02a7d7fb8cbbbf16a83a1db179"
+/>
+<com.kmtech.webkit.Adswebview android:id="@+id/ttView" 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    /> -->
+    </LinearLayout>
